@@ -1,8 +1,3 @@
-## Xubin Zheng (郑旭彬)
-
-Assistant Professor
-Computer Science, Great Bay University, China.
-
 Email: xbzheng@gbu.edu.cn
 
 Google scholar: https://scholar.google.com/citations?user=yZmOxiwAAAAJ&hl=en&oi=ao
