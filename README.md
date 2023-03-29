@@ -20,16 +20,16 @@ Google scholar: https://scholar.google.com/citations?user=yZmOxiwAAAAJ&hl=en&oi=
 
 * Qizhi Li#, **Xubin Zheng#**, Jize Xie#, Ran Wang, Mengyao Li, Man-Hon Wong, Kwong-Sak Leung, Shuai Li, Qingshan Geng\*, and Lixin Cheng\*.   
 bvnGPS: a generalizable diagnostic model for acute bacterial and viral infection using integrative host transcriptomics and pretrained neural networks.   
-***Bioinformatics, 2023 ***
+***Bioinformatics, 2023.***
 [Full Text](https://doi.org/10.1093/bioinformatics/btad109)
 
 * Ran Wang, **Xubin Zheng**, Fangda Song, Man Hon Wong, Kwong Sak Leung, and Lixin Cheng\*.   
 Deciphering associations between gut microbiota and clinical factors using microbial modules.   
-***Bioinformatics, 2023 ***
+***Bioinformatics, 2023.***
 
 *	Lixin Cheng#\*, Haonan Wu#, **Xubin Zheng**, Ning Zhang, Pengfei Zhao, Ran Wang, Qiong Wu, Tao Liu, Xiaojun Yang, and Qingshan Geng\*.   
 GPGPS: a robust prognostic gene pair signature of glioma ensembling IDH mutation and 1p/19q co-deletion.   
-***Bioinformatics, 2023 ***
+***Bioinformatics, 2023.***
 [Full Text](https://doi.org/10.1093/bioinformatics/btac850) 
 
 *	Qiong Wu#, **Xubin Zheng#**, Kwong-Sak Leung, Man-Hon Wong, Stephen Kwok-Wing Tsui\*, and Lixin Cheng\*.  
@@ -57,7 +57,7 @@ A robust and generalizable immune-related signature for sepsis diagnostics.
 ***IEEE/ACM Transactions in Computational Biology and Bioinformatics, 2021.*** 
 [Full Text](https://pubmed.ncbi.nlm.nih.gov/34437068/)
 
-*	**Xubin Zheng#**, Qiong Wu#, Haonan Wu#, Man-Hon Wong, Kwong Sak Leung, Xueyan Liu\*, and Lixin Cheng\*.  
+*	**Xubin Zheng#**, Qiong Wu#, Haonan Wu#, Man-Hon Wong, Kwong Sak Leung, Xueyan Liu\*, and Lixin Cheng\*. 
 Evaluating the consistency of gene methylation in liver cancer using bisulfite sequencing data.  
 ***Front. Cell Dev. Biol., 2021.***
 [Full Text](https://doi.org/10.3389/fcell.2021.671302)
