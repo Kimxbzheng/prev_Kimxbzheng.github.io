@@ -18,7 +18,7 @@ Google scholar: https://scholar.google.com/citations?user=yZmOxiwAAAAJ&hl=en&oi=
 ## Education:
 * Aug 2018 – Aug 2022, PhD, The Chinese University of Hong Kong.
 * 2015 – 2016, Master, The University of Hong Kong.
-* 2010 – 2014, BSc, Zhejiang University.
+* 2010 – 2014, Bachelor, Zhejiang University.
 
 ## Selected Publications: 
 (**\*** corresponding author; **#** co-first author; **IF**, Impact Factor)
