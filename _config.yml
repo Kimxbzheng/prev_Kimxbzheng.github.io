@@ -2,5 +2,5 @@ remote_theme: pages-themes/tactile@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Xubin Zheng (郑旭彬)
-description: Assistant Professor, Computer Science, Great Bay University.
+title: Xubin Zheng
+description: Assistant Professor, |Computer Science, Great Bay University.
