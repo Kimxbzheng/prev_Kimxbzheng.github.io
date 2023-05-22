@@ -1,8 +1,16 @@
 title: Xubin Zheng
 description: Assistant Professor, Computer Science, Great Bay University
 show_downloads: false
+avatar: /Pic.jpg
 
 plugins:
   - jekyll-remote-theme
 
 remote_theme: vszhub/not-pure-poole
+
+- type: Publications
+  title: Publications
+  url: /publications/
+- type: CV
+  title: CV
+  url: /cv/
