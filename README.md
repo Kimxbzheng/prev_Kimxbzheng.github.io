@@ -1,5 +1,7 @@
 Email: xbzheng@gbu.edu.cn
 
+<img align="right" width="130" height="180" src="https://github.com/Kimxbzheng/Kimxbzheng.github.com/blob/master/pic.jpg?raw=true">
+
 Google scholar: https://scholar.google.com/citations?user=yZmOxiwAAAAJ&hl=en&oi=ao
 
 `RA recruitment:` I am looking for Research Assistants and Visiting Students in computer science and bioinformatics. Please email me if interested.
