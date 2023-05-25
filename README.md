@@ -1,6 +1,6 @@
 Email: xbzheng@gbu.edu.cn
 
-<img align="right" width="130" height="180" src="https://github.com/Kimxbzheng/Kimxbzheng.github.com/blob/master/pic.jpg?raw=true">
+<img align="right" width="130" height="180" src="https://github.com/Kimxbzheng/Kimxbzheng.github.com/blob/master/Pic.jpg?raw=true">
 
 Google scholar: https://scholar.google.com/citations?user=yZmOxiwAAAAJ&hl=en&oi=ao
 
